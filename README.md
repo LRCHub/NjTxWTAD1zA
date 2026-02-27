@@ -1,4 +1,4 @@
-# Liza – 夜勤事件
+# Liza – 夜勤事件 - Night Shift Incident
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
